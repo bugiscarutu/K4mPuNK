@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://gumisasak-vision.online/TestUSEETOKEN/chunklist3.m3u8?auth=90cf02d680f105a8020607f553f2546be4399a4b&id=useesport&gumisasakTV=default&sync=0
