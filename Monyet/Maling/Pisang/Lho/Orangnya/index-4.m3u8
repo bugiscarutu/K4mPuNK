@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=426x240,NAME="240p"
-https://streaming.useetv.com/joss/130/indikids/playlist.m3u8?enc=tRRMP1r-In0VHbRDVmN08A&exp=1643747667&encp=a8ZrlsWt7KaZlLLAwhWSZQ&expp=1643756367
+https://cdn14jtedge.useetv.com/joss/130/indikids/chunklist_w108306178_b494100_sleng.m3u8?enc=a8ZrlsWt7KaZlLLAwhWSZQ&uid=&exp=1643756367
 #EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
-https://streaming.useetv.com/joss/130/indikids/playlist.m3u8?enc=tRRMP1r-In0VHbRDVmN08A&exp=1643747667&encp=a8ZrlsWt7KaZlLLAwhWSZQ&expp=1643756367
+https://cdn14jtedge.useetv.com/joss/130/indikids/chunklist_w108306178_b684100_sleng.m3u8?enc=a8ZrlsWt7KaZlLLAwhWSZQ&uid=&exp=1643756367
 #EXT-X-STREAM-INF:BANDWIDTH=1004100,RESOLUTION=960x540,NAME="540p"
-https://streaming.useetv.com/joss/130/indikids/playlist.m3u8?enc=tRRMP1r-In0VHbRDVmN08A&exp=1643747667&encp=a8ZrlsWt7KaZlLLAwhWSZQ&expp=1643756367
+https://cdn14jtedge.useetv.com/joss/130/indikids/chunklist_w108306178_b1004100_sleng.m3u8?enc=a8ZrlsWt7KaZlLLAwhWSZQ&uid=&exp=1643756367
