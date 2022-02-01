@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1544100,RESOLUTION=426x240,NAME="240p"
+https://cdn14jtedge.useetv.com/joss/194/atv/chunklist_w1239770819_b1544100_sleng.m3u8?enc=Gqg9j_r0X5LT4LkBI8UypQ&uid=&exp=1643746736
+#EXT-X-STREAM-INF:BANDWIDTH=1544100,RESOLUTION=640x360,NAME="360p"
+https://cdn14jtedge.useetv.com/joss/194/atv/chunklist_w1239770819_b1544100_sleng.m3u8?enc=Gqg9j_r0X5LT4LkBI8UypQ&uid=&exp=1643746736
+#EXT-X-STREAM-INF:BANDWIDTH=1544100,RESOLUTION=960x540,NAME="540p"
+https://cdn14jtedge.useetv.com/joss/194/atv/chunklist_w1239770819_b1544100_sleng.m3u8?enc=Gqg9j_r0X5LT4LkBI8UypQ&uid=&exp=1643746736
